@@ -8,11 +8,7 @@
 
 # Hi there, I’m Leon! 👋
 
-I’m a Computer Science graduate (B.Sc., University of Passau, GPA 1.3
-GitHub
-) and incoming M.Sc. Electrical Engineering & IT student at TUM. My work focuses on Python-based simulation and co-design of embedded systems, especially in energy informatics and clean-tech. I’m relocating to Munich (TUM) this summer
-GitHub
-, and I’m available for full-time opportunities (with a long-term interest in applied R&D at the hardware-software boundary).
+I’m a Computer Science graduate (B.Sc., University of Passau, GPA 1.3) and incoming M.Sc. Electrical Engineering & IT student at TUM. My work focuses on Python-based simulation and co-design of embedded systems, especially in energy informatics and clean-tech. I’m relocating to Munich (TUM) this summer, and I’m available for full-time opportunities (with a long-term interest in applied R&D at the hardware-software boundary).
 
 ---
 
@@ -35,7 +31,7 @@ GitHub
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**Fault-Tolerant DER Control** (B.Sc. Thesis)](https://github.com/leonfoeck/cell_control)     | Co-simulated centralized vs. distributed controllers for a microgrid under up to 50% DER loss, maintaining frequency within ±0.01 Hz. Implemented in Python (Mosaik, Pandapower) with optimization via Gurobi. |
 | [**Scratch Code Transformers** (NLP Seminar)](https://github.com/leonfoeck/Seminar_paper_code) | Trained a PyTorch Transformer on \~500k Scratch programs to predict sprite names. Extensive hyperparameter search led to a significant F1-score improvement over the baseline.                                 |
-| [**SEP Project (Java)**](https://github.com/leonfoeck/Prog_2)                                  | University software-engineering project (\~14k LOC) with full SDLC. Java backend (JSF) + PostgreSQL, covering requirements, design, implementation, and testing.                                               |
+| [**SEP Project (Java)**](https://.com/leonfoeck/Prog_2)                                  | University software-engineering project (\~14k LOC) with full SDLC. Java backend (JSF) + PostgreSQL, covering requirements, design, implementation, and testing.                                               |
 
 ---
 
