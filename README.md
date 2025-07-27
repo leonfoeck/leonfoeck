@@ -57,9 +57,7 @@ I’m a Computer Science graduate (B.Sc., University of Passau, GPA 1.3) and inc
 
 ## 👤 About Me
  
-> After graduating in the top 10% of my class, I’m relocating to Munich to begin my M.Sc. at TUM and continue exploring the intersection of software, hardware, and clean technology
-GitHub
-. I’m available for full-time roles starting this summer. I thrive on projects that blend research and practical engineering, especially in simulation and embedded systems.”
+> After graduating in the top 10% of my class, I’m relocating to Munich to begin my M.Sc. at TUM and continue exploring the intersection of software, hardware, and clean technology. I’m available for full-time roles starting this summer. I thrive on projects that blend research and practical engineering, especially in simulation and embedded systems.”
 
 
 ---
